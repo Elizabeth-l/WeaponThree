@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WeaponThree</string>
+
+    <string name="welcome">欢迎使用 WeaponThree v4.0, 请点击开始服务:\n</string>
+    <string name="startService">开始服务</string>
+    <string name="notice">
+        \n1. 我们最终只回收appslog2.txt,appsChanged2.txt,installedApps.txt,BatteryStatusInfo.txt这4个文件， 请不要删除;\n
+        \n2. 请在设置中的无障碍选项中打开这个服务;\n
+        \n3. 请将自动运行权限设置为开;\n
+        \n4. 有问题请联系: 1713976822@qq.com.\n
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="accessibility_des">accessibility-service/res/xml</string>
+</resources>
